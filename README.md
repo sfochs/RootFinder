@@ -5,4 +5,4 @@ Requirements:
   Python 3.7
   
 Instructions:
-  run 'python3 rootcanal.py' in enclosing folder
+  run 'python3 rootcanal.py' in RootFinder folder
